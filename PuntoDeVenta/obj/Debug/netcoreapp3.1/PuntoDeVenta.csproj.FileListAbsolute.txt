@@ -1,0 +1,14 @@
+C:\Users\ghost\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\netcoreapp3.1\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\ghost\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\netcoreapp3.1\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\netcoreapp3.1\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\ghost\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\netcoreapp3.1\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\ghost\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\netcoreapp3.1\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\ghost\source\repos\PuntoDeVenta\PuntoDeVenta\bin\Debug\netcoreapp3.1\PuntoDeVenta.exe
+C:\Users\ghost\source\repos\PuntoDeVenta\PuntoDeVenta\bin\Debug\netcoreapp3.1\PuntoDeVenta.deps.json
+C:\Users\ghost\source\repos\PuntoDeVenta\PuntoDeVenta\bin\Debug\netcoreapp3.1\PuntoDeVenta.runtimeconfig.json
+C:\Users\ghost\source\repos\PuntoDeVenta\PuntoDeVenta\bin\Debug\netcoreapp3.1\PuntoDeVenta.runtimeconfig.dev.json
+C:\Users\ghost\source\repos\PuntoDeVenta\PuntoDeVenta\bin\Debug\netcoreapp3.1\PuntoDeVenta.dll
+C:\Users\ghost\source\repos\PuntoDeVenta\PuntoDeVenta\bin\Debug\netcoreapp3.1\PuntoDeVenta.pdb
+C:\Users\ghost\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\netcoreapp3.1\PuntoDeVenta.dll
+C:\Users\ghost\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\netcoreapp3.1\PuntoDeVenta.pdb
+C:\Users\ghost\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\netcoreapp3.1\PuntoDeVenta.genruntimeconfig.cache
